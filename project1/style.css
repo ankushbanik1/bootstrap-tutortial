@@ -26,9 +26,9 @@
         width:100%;
         background-size: cover;
     } */
-p{
+/* p{
     color: red;
-}    
+}     */
 
 .navbar {
     background-color:blueviolet;
@@ -40,14 +40,7 @@ p{
     height: 100%;
     width: 100%;
     }
-    #home{
-        background-image: url("img/mountains.jpeg") no-repeat center  center fixed;
-        display: table;
-        height: 100%;
-        position: relative;
-        width:100%;
-        background-size: cover;
-    } 
+    
     #home{
         background-image: url("img/soft.png");
         display: table;
