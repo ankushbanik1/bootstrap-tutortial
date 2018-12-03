@@ -1,0 +1,59 @@
+/* html, body {
+
+    height: 100%;
+    width: 1400%;
+    }
+    
+    .navbar {
+        background-color:blueviolet;
+        padding: 1% 0;
+        font-size: 1.2em
+    }
+    .navbar-brand {
+        min-height: 55px;
+        padding: 0 15px 5px;
+    
+    }
+    .navbar-default .navbar-nav li a ; hover{
+        color: aqua;
+    
+    }
+    #home {
+        background-image: url(img/mountains.jpeg) no-repeat center  center fixed;
+        display: table;
+        height: 100%;
+        position: relative;
+        width:100%;
+        background-size: cover;
+    } */
+p{
+    color: red;
+}    
+
+.navbar {
+    background-color:blueviolet;
+    padding: 1% 0;
+    font-size: 1.2em
+}
+ html body {
+
+    height: 100%;
+    width: 100%;
+    }
+    #home{
+        background-image: url("img/mountains.jpeg") no-repeat center  center fixed;
+        display: table;
+        height: 100%;
+        position: relative;
+        width:100%;
+        background-size: cover;
+    } 
+    #home{
+        background-image: url("img/soft.png");
+        display: table;
+        
+        height: 200%;
+        position: relative;
+        width:100%;
+        background-size: cover;
+     }
