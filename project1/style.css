@@ -35,18 +35,99 @@
     padding: 1% 0;
     font-size: 1.2em
 }
- html body {
+html, body {
 
     height: 100%;
     width: 100%;
     }
     
     #home{
-        background-image: url("img/soft.png");
+        background-image: url("img/mountains.jpeg");
         display: table;
         
-        height: 200%;
+        height: 100%;
         position: relative;
         width:100%;
         background-size: cover;
      }
+     
+.navbar {
+        background-color: rgb(21, 231, 14);
+        padding: 1% 0;
+        font-size: 1.2em;
+    }     
+.navbar-brand {
+        min-height: 55px;
+        padding: 0 15px 5px;
+        color: rgb(236, 20, 20);
+    
+    }
+    .navbar-inverse .navbar-nav li a {
+        color:black;
+
+    }
+    .navbar-inverse .navbar-nav li a:hover, .navbar-default .navbar-nav li a.active{
+        color: #D5D5;
+
+    }
+    
+       
+
+.landing-text {
+    display: table-cell;
+    text-align: center;
+    vertical-align: middle;
+
+}
+     .landing-text h1 {
+         font-size: 100px;
+         font-style: bold;
+         width: 100%;
+
+     }
+     .padding{
+         padding: 88px 0;
+
+
+     }
+     .padding img{
+         width: 100;
+     }
+#fixed {
+        background:url("img/background.jpg") ;
+        display: table;
+        height: 60%;
+        position: relative;
+        width: 100%;
+        background-size: cover;
+     }
+     footer{
+         width: 100%;
+         background-color :rgba(29, 10, 46, 0.774);
+         padding:5% 5% 10% 5%;
+
+     }
+     #fixed {
+        background:url("img/background.jpg") ;
+        display: table;
+        height: 250%;
+        position: relative;
+        width: 100%;
+        background-size: cover;
+     }
+
+     .fa{
+         padding: 20px;
+         font-size: 30px;
+         color:whitesmoke;
+     }
+
+     .fa:hover{
+         color :red;
+         text-decoration: none;
+
+     }
+     .icon{
+         max-width: 200px;
+     }
+    
